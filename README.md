@@ -6,4 +6,4 @@
 🚀 **Innovation & Scale** – Designing ML pipelines that automate scoring and evaluation for production-ready analytics.  
 🌍 **Broader Perspective** – Dual U.S.–Irish citizen with global mindset, entrepreneurial experience, and commitment to diversity and fairness in AI.  
 
-I'm building my GitHub presence, so please check back later for more. 
+🔧 **Note** – I’m building my GitHub presence, so more projects and content will be added soon.  
