@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Grace Friel. Here is a bit about me:
+# 👋 Hi, I’m Grace Friel.  Here is a bit about me:
 
 📊 **Risk Stratification & Predictive Modeling** – Building enterprise-wide models to target high-risk members and optimize interventions.  
 🤝 **Team Leadership & Mentorship** – Developing an analytics team that is strategic, structured, and future-ready.  
